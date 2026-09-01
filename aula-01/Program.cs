@@ -1,4 +1,5 @@
-﻿namespace aula01;
+﻿using System;
+namespace aula01;
 
 public class Program
 {

@@ -1,0 +1,15 @@
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\bin\Debug\net10.0\aula-02.exe
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\bin\Debug\net10.0\aula-02.deps.json
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\bin\Debug\net10.0\aula-02.runtimeconfig.json
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\bin\Debug\net10.0\aula-02.dll
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\bin\Debug\net10.0\aula-02.pdb
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.AssemblyInfoInputs.cache
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.AssemblyInfo.cs
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.sourcelink.json
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.dll
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\refint\aula-02.dll
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.pdb
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\aula-02.genruntimeconfig.cache
+C:\Users\Augusto\Desktop\AprendendoC#\aula-02\obj\Debug\net10.0\ref\aula-02.dll
