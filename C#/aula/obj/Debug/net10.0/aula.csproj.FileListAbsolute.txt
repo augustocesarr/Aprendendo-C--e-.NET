@@ -1,0 +1,14 @@
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\aula.AssemblyInfoInputs.cache
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\aula.AssemblyInfo.cs
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\aula.csproj.CoreCompileInputs.cache
+C:\Users\Unip\Desktop\C#\aula\bin\Debug\net10.0\aula.exe
+C:\Users\Unip\Desktop\C#\aula\bin\Debug\net10.0\aula.deps.json
+C:\Users\Unip\Desktop\C#\aula\bin\Debug\net10.0\aula.runtimeconfig.json
+C:\Users\Unip\Desktop\C#\aula\bin\Debug\net10.0\aula.dll
+C:\Users\Unip\Desktop\C#\aula\bin\Debug\net10.0\aula.pdb
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\aula.dll
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\refint\aula.dll
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\aula.pdb
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\aula.genruntimeconfig.cache
+C:\Users\Unip\Desktop\C#\aula\obj\Debug\net10.0\ref\aula.dll

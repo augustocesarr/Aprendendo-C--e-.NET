@@ -1,0 +1,4 @@
+C:\Users\Unip\Desktop\C#\cliente\obj\Debug\net10.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unip\Desktop\C#\cliente\obj\Debug\net10.0\cliente.AssemblyInfoInputs.cache
+C:\Users\Unip\Desktop\C#\cliente\obj\Debug\net10.0\cliente.AssemblyInfo.cs
+C:\Users\Unip\Desktop\C#\cliente\obj\Debug\net10.0\cliente.csproj.CoreCompileInputs.cache
