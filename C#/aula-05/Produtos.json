@@ -1,0 +1,17 @@
+{
+    "produtos": 
+    [
+        {
+            "NomeProduto": "Arroz 5kg",
+            "PrecoProduto": 25.99,
+            "EstoqueProduto": 23,
+            "CodigoProduto": 789111
+        },
+        {
+            "NomeProduto": "Feijão 1kg",
+            "PrecoProduto": 12.99,
+            "EstoqueProduto": 32,
+            "CodigoProduto": 789112
+        }
+    ] 
+}
